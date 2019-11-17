@@ -50,5 +50,5 @@
  - Juice pack should be placed on the bar
  
 ## Videos - Projector
- - Set Nella's videos on loop (projector)
- - Switch to iTunes playlist (Bollywood) at random
+ - Set Nella's videos on loop - Playlist on videos : *Nel-la*
+ - Switch to iTunes playlist intermittently.
