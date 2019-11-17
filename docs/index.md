@@ -24,13 +24,17 @@
  - Table for gifts (for Nella), near entrance
     - Balloons on either side*
 
-## Table Decoration (Puja and Sudesna)
+## Room Table Decoration (Puja and Sudesna)
  - Centerpiece Triangle (attach clips)
  - Mermaid centerpeice (One on each table)
  - Wall on the left of stage
     - Happy Birthday whale banners
     - Blue Frills vertical lines on wall using painter's tape
     - Balloon Bunches (5 balloons) using balloon strip
+
+
+## Room Decoration
+ - Place balloon bunches (5) using balloon strips all around the room.    
 
 
 ## Stage Decoration (in BOX 3) (Bingu, Abhijeet, Amruta, Shyam, Jyotika)
