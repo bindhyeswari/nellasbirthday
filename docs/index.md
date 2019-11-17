@@ -3,7 +3,7 @@
 ## Cake Pickup
  - *Biswajit* and *JJ*
  - Pickup at 11
- - Pickup from Sapna (510 449 3894) , 4401 Peralta Blvd, Fremont
+ - Pickup from Sapna <a href="+1-510-449-3894">(510) 449-3894)</a> , [4401 Peralta Blvd, Fremont](https://goo.gl/maps/nmVu9A3sdX6sGtrW6)
 
 
 ## Lobby Decoration (Puja, Jyotika, Amruta, Sudesna)
