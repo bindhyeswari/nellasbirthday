@@ -1,0 +1,11 @@
+{
+  "name": "nellasbirthday",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "commit": "git add . && git commit -m 'intermediate' && git push origin master",
+    "deploy": "mkdocs gh-deploy",
+    "start": "mkdocs serve"
+  }
+}
