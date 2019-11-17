@@ -48,3 +48,7 @@
 ## Food Setup
  - Coke cans to be placed in the fridge
  - Juice pack should be placed on the bar
+ 
+## Videos - Projector
+ - Set Nella's videos on loop (projector)
+ - Switch to iTunes playlist (Bollywood) at random
